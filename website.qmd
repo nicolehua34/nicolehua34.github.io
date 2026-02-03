@@ -1,9 +1,8 @@
 ---
-title: "My Website"
+title: "Link to my website"
 format: html
 ---
 
-[Press for website](https://nicolehua34.github.io/)
+Here is my link:
 
-
-
+[Press here for my website](https://nicolehua34.github.io)
