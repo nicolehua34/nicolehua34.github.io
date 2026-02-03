@@ -9,7 +9,8 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
-      - blog.qmd
+      - href: https://nicolehua34.github.io/blog
+        text: Blog
       
 format:
   html:
