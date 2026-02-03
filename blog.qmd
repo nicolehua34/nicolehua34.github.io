@@ -1,0 +1,7 @@
+---
+title: "Blog"
+---
+
+Visit my blog if you want to follow along with my learning!
+
+[Nicole's Blog](https://nicolehua34.github.io/blog)
